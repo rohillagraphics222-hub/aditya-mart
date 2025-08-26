@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aditya-mart/static/css/main.ce083bf4.css",
-    "main.js": "/aditya-mart/static/js/main.328dab48.js",
-    "index.html": "/aditya-mart/index.html",
-    "main.ce083bf4.css.map": "/aditya-mart/static/css/main.ce083bf4.css.map",
-    "main.328dab48.js.map": "/aditya-mart/static/js/main.328dab48.js.map"
+    "main.css": "/aditya-rohilla/static/css/main.ce083bf4.css",
+    "main.js": "/aditya-rohilla/static/js/main.328dab48.js",
+    "index.html": "/aditya-rohilla/index.html",
+    "main.ce083bf4.css.map": "/aditya-rohilla/static/css/main.ce083bf4.css.map",
+    "main.328dab48.js.map": "/aditya-rohilla/static/js/main.328dab48.js.map"
   },
   "entrypoints": [
     "static/css/main.ce083bf4.css",
