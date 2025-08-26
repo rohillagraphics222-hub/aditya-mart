@@ -40,7 +40,7 @@ const btnStyle = {
 export default function Hero() {
   return (
     <section style={heroStyle}>
-  <h1 style={titleStyle}>Welcome to Aditya Rohilla World</h1>
+  <h1 style={titleStyle}>Welcome to My Website</h1>
       <p style={descStyle}>
         Discover a curated selection of premium products and insightful blogs. Shop smart, live beautifully.
       </p>
