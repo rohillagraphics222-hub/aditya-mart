@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aditya-mart/static/css/main.ce083bf4.css",
-    "main.js": "/aditya-mart/static/js/main.dde1f6e3.js",
+    "main.js": "/aditya-mart/static/js/main.328dab48.js",
     "index.html": "/aditya-mart/index.html",
     "main.ce083bf4.css.map": "/aditya-mart/static/css/main.ce083bf4.css.map",
-    "main.dde1f6e3.js.map": "/aditya-mart/static/js/main.dde1f6e3.js.map"
+    "main.328dab48.js.map": "/aditya-mart/static/js/main.328dab48.js.map"
   },
   "entrypoints": [
     "static/css/main.ce083bf4.css",
-    "static/js/main.dde1f6e3.js"
+    "static/js/main.328dab48.js"
   ]
 }
