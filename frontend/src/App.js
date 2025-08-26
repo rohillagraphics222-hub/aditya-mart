@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Products from "./components/Products";
+import Services from "./components/Services";
 import Blogs from "./components/Blogs";
 import ContactForm from "./components/Contactform";
 import Footer from "./components/Footer";
@@ -11,8 +12,9 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Hero />
-      <Products />
+  <Hero />
+  <Services />
+  <Products />
       <Blogs />
       <ContactForm />
       <Footer />
