@@ -33,7 +33,7 @@ const styles = {
 export default function Navbar() {
   return (
     <nav style={styles.navbar}>
-      <div style={styles.logo}>Aditya Mart</div>
+  <div style={styles.logo}>Aditya Rohilla</div>
       <div style={styles.navLinks}>
         <a style={styles.link} href="#products">Products</a>
         <a style={styles.link} href="#blogs">Blogs</a>

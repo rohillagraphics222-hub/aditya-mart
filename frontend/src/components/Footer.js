@@ -13,7 +13,7 @@ export default function Footer() {
   return (
     <footer id="contact" style={style}>
       <div>
-        &copy; {new Date().getFullYear()} Aditya Mart | Designed by Aditya
+  &copy; {new Date().getFullYear()} Aditya Rohilla | Designed by Aditya
       </div>
       <div>
         <a href="mailto:contact@adityamart.com" style={{ color: "#fff", textDecoration: "underline" }}>
