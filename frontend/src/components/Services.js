@@ -14,7 +14,7 @@ const services = [
 const Services = () => {
   console.log('Services component rendered');
   return (
-    <section className="services-section">
+  <section className="services-section" id="services">
       <h2 className="services-title">Our Services</h2>
       <div className="services-grid">
         {services.map((service, idx) => (

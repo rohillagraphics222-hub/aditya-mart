@@ -35,9 +35,10 @@ export default function Navbar() {
     <nav style={styles.navbar}>
   <div style={styles.logo}>Aditya Rohilla</div>
       <div style={styles.navLinks}>
-        <a style={styles.link} href="#products">Products</a>
-        <a style={styles.link} href="#blogs">Blogs</a>
-        <a style={styles.link} href="#contact">Contact</a>
+  <a style={styles.link} href="#services">Our Services</a>
+  <a style={styles.link} href="#products">Products</a>
+  <a style={styles.link} href="#blogs">Blogs</a>
+  <a style={styles.link} href="#contact">Contact</a>
       </div>
     </nav>
   );
