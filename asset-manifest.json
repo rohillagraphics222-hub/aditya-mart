@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aditya-rohilla/static/css/main.7fb0a457.css",
-    "main.js": "/aditya-rohilla/static/js/main.c05aaaab.js",
+    "main.js": "/aditya-rohilla/static/js/main.846fb638.js",
     "index.html": "/aditya-rohilla/index.html",
     "main.7fb0a457.css.map": "/aditya-rohilla/static/css/main.7fb0a457.css.map",
-    "main.c05aaaab.js.map": "/aditya-rohilla/static/js/main.c05aaaab.js.map"
+    "main.846fb638.js.map": "/aditya-rohilla/static/js/main.846fb638.js.map"
   },
   "entrypoints": [
     "static/css/main.7fb0a457.css",
-    "static/js/main.c05aaaab.js"
+    "static/js/main.846fb638.js"
   ]
 }
