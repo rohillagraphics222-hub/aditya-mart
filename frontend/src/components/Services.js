@@ -12,6 +12,7 @@ const services = [
 ];
 
 const Services = () => {
+  console.log('Services component rendered');
   return (
     <section className="services-section">
       <h2 className="services-title">Our Services</h2>
